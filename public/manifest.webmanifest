@@ -1,0 +1,11 @@
+{
+  "name": "Savitri Livings Kolkata",
+  "short_name": "Savitri Kolkata",
+  "description": "Discover Savitri Livings jewellery around Kolkata.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ef",
+  "theme_color": "#28483d",
+  "icons": [{ "src": "/savitri-kolkata-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
